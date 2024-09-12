@@ -1,5 +1,5 @@
 1. Check out the master Branch.
-2. navigate to Documents folder from the terminal 
+2. navigate to Documents/Applixcode folder from the terminal 
 3. Run npm install it will install the dependencies
 4. navigate to src folder and run node FileUpload.js file which will run the backend application
 5. go back to Documents folder and type npm run start in the terminal which will start the react application
